@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adi5461
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs and NodeJs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular and NodeJs
 - 📫 How to reach me https://www.linkedin.com/in/aditya-yaduvanshi64/
 
 <!---
